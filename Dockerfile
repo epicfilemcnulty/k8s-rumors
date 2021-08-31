@@ -1,2 +1,2 @@
-FROM anchorfree/shell-operator:v1.0.0-AFP0.1
+FROM flant/shell-operator:v1.0.3
 ADD hooks /hooks
